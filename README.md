@@ -9,6 +9,14 @@ Welcome to my GitHub! I am a **front-end enthusiast** with a passion for buildin
 - **Development Tools:** Webpack, ESLint, Stylelint, Git, GitHub, GitLab, npm, Storybook, Monorepo
 - **Responsive Design & Accessibility:** Ensuring high-quality, accessible, and responsive user interfaces
 
+## 📦 npm Packages
+Here are some of the npm packages I maintain and continuously improve:
+- [Vevet](https://www.npmjs.com/package/vevet)
+- [@anton.bobrov/react-components](https://www.npmjs.com/package/@anton.bobrov/react-components)
+- [@anton.bobrov/react-hooks](https://www.npmjs.com/package/@anton.bobrov/react-hooks)
+- [@anton.bobrov/react-vevet-hooks](https://www.npmjs.com/package/@anton.bobrov/react-vevet-hooks)
+- [@anton.bobrov/react-dat-gui](https://www.npmjs.com/package/@anton.bobrov/react-dat-gui)
+
 ## 🎨 Latest Experiments
 - [Depth Map with Points](https://antonbobrov.github.io/threejs-depth-points-image/)
 - [Runic Alphabet Visualization](https://antonbobrov.github.io/threejs-runic-alphabet/)
