@@ -28,6 +28,6 @@ Here are some of the npm packages I maintain and continuously improve:
 
 
 ## 📫 How to Reach Me
-- [LinkedIn](https://www.linkedin.com/in/antonbobrov)
+- [LinkedIn](https://www.linkedin.com/in/anthony-bobrov)
 
 Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or ideas for collaboration!
