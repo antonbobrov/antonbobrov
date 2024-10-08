@@ -11,11 +11,11 @@ Welcome to my GitHub! I am a **front-end enthusiast** with a passion for buildin
 
 ## 📦 npm Packages
 Here are some of the npm packages I maintain and continuously improve:
-- [Vevet](https://www.npmjs.com/package/vevet)
-- [@anton.bobrov/react-components](https://www.npmjs.com/package/@anton.bobrov/react-components)
-- [@anton.bobrov/react-hooks](https://www.npmjs.com/package/@anton.bobrov/react-hooks)
-- [@anton.bobrov/react-vevet-hooks](https://www.npmjs.com/package/@anton.bobrov/react-vevet-hooks)
-- [@anton.bobrov/react-dat-gui](https://www.npmjs.com/package/@anton.bobrov/react-dat-gui)
+- [vevet](https://www.npmjs.com/package/vevet)
+- [react-components](https://www.npmjs.com/package/@anton.bobrov/react-components)
+- [react-hooks](https://www.npmjs.com/package/@anton.bobrov/react-hooks)
+- [react-vevet-hooks](https://www.npmjs.com/package/@anton.bobrov/react-vevet-hooks)
+- [react-dat-gui](https://www.npmjs.com/package/@anton.bobrov/react-dat-gui)
 
 ## 🎨 Latest Experiments
 - [Depth Map with Points](https://antonbobrov.github.io/threejs-depth-points-image/)
