@@ -18,6 +18,7 @@ Here are some of the npm packages I maintain and continuously improve:
 - [react-dat-gui](https://www.npmjs.com/package/@anton.bobrov/react-dat-gui)
 
 ## 🎨 Latest Experiments
+- [Liquid Distortion](https://antonbobrov.github.io/threejs-fluid-distortion-1/)
 - [Summer Rides](https://antonbobrov.github.io/threejs-summer-rides/)
 - [Unreal Flower](https://antonbobrov.github.io/threejs-unreal-flower/)
 - [Depth Map with Points](https://antonbobrov.github.io/threejs-depth-points-image/)
