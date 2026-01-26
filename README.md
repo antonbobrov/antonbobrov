@@ -18,6 +18,8 @@ Here are some of the npm packages I maintain and continuously improve:
 - [react-dat-gui](https://www.npmjs.com/package/@anton.bobrov/react-dat-gui)
 
 ## 🎨 Latest Experiments
+- [Sphere in Hand](https://github.com/antonbobrov/r3f-sphere-in-hand)
+- [Liquid Points Image](https://github.com/antonbobrov/threejs-liquid-points-image)
 - [Liquid Distortion](https://antonbobrov.github.io/threejs-fluid-distortion-1/)
 - [Summer Rides](https://antonbobrov.github.io/threejs-summer-rides/)
 - [Unreal Flower](https://antonbobrov.github.io/threejs-unreal-flower/)
