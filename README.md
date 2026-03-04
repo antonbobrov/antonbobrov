@@ -18,6 +18,7 @@ Here are some of the npm packages I maintain and continuously improve:
 - [react-dat-gui](https://www.npmjs.com/package/@anton.bobrov/react-dat-gui)
 
 ## 🎨 Latest Experiments
+- [Wormy Particles](https://r3f-tsl-wormy-particles.vercel.app/)
 - [Ball of Glass with Rapier](https://r3f-rapier-ball-of-glass.vercel.app/)
 - [Sphere in Hand](https://github.com/antonbobrov/r3f-sphere-in-hand)
 - [Liquid Points Image](https://github.com/antonbobrov/threejs-liquid-points-image)
