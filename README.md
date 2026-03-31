@@ -3,8 +3,8 @@
 Welcome to my GitHub! I am a **front-end enthusiast** with a passion for building sleek, interactive, and performant web applications. I enjoy animating and developing things, always aiming to push the limits of modern web development.
 
 ## 🔧 Technologies & Tools I Work With
-- **Languages & Frameworks:** JavaScript, TypeScript, React.js, Next.js, Redux.js, Web Components, PHP, ModX
-- **Styling:** CSS, SASS, CSS Modules, BEM, styled-components
+- **Languages & Frameworks:** JavaScript, TypeScript, React, Next.js, Redux, Web Components
+- **Styling:** CSS, SCSS (SASS), CSS Modules, BEM, styled-components
 - **Animation:** Three.js, Canvas 2D, GSAP, Anime.js, GLSL, SVG
 - **Development Tools:** Webpack, ESLint, Stylelint, Git, GitHub, GitLab, npm, Storybook, Monorepo
 - **Responsive Design & Accessibility:** Ensuring high-quality, accessible, and responsive user interfaces
@@ -18,6 +18,7 @@ Here are some of the npm packages I maintain and continuously improve:
 - [react-dat-gui](https://www.npmjs.com/package/@anton.bobrov/react-dat-gui)
 
 ## 🎨 Latest Experiments
+- [Lusion Portal](https://r3f-lusion-portal.vercel.app/)
 - [Wormy Particles](https://r3f-tsl-wormy-particles.vercel.app/)
 - [Ball of Glass with Rapier](https://r3f-rapier-ball-of-glass.vercel.app/)
 - [Sphere in Hand](https://github.com/antonbobrov/r3f-sphere-in-hand)
