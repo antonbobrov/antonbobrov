@@ -18,6 +18,7 @@ Here are some of the npm packages I maintain and continuously improve:
 - [react-dat-gui](https://www.npmjs.com/package/@anton.bobrov/react-dat-gui)
 
 ## 🎨 Latest Experiments
+- [Raycaser Liquid Distortion](https://antonbobrov.github.io/threejs-raycaster-liquid-distortion/)
 - [Lusion Portal](https://r3f-lusion-portal.vercel.app/)
 - [Wormy Particles](https://r3f-tsl-wormy-particles.vercel.app/)
 - [Ball of Glass with Rapier](https://r3f-rapier-ball-of-glass.vercel.app/)
