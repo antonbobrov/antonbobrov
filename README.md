@@ -18,6 +18,7 @@ Here are some of the npm packages I maintain and continuously improve:
 - [react-dat-gui](https://www.npmjs.com/package/@anton.bobrov/react-dat-gui)
 
 ## 🎨 Latest Experiments
+- [Burning Skull](https://antonbobrov.github.io/threejs-burning-skull/)
 - [Cursor Tiles Distortion](https://antonbobrov.github.io/threejs-cursor-tiles-distortion/)
 - [RGB Fluid](https://antonbobrov.github.io/threejs-rgb-fluid/)
 - [Raycaser Liquid Distortion](https://antonbobrov.github.io/threejs-raycaster-liquid-distortion/)
