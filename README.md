@@ -1,33 +1,31 @@
 # Hi there, I'm Anton Bobrov 👋
 
-Welcome to my GitHub! I am a **front-end enthusiast** with a passion for building sleek, interactive, and performant web applications. I enjoy animating and developing things, always aiming to push the limits of modern web development.
+Welcome to my GitHub! I am a **front-end enthusiast** with a passion for building sleek, interactive, and performant web applications.
 
 ## 🔧 Technologies & Tools I Work With
-- **Languages & Frameworks:** JavaScript, TypeScript, React, Next.js, Redux, Web Components
-- **Styling:** CSS, SCSS (SASS), CSS Modules, BEM, styled-components
-- **Animation:** Three.js, Canvas 2D, GSAP, Anime.js, GLSL, SVG
-- **Development Tools:** Webpack, ESLint, Stylelint, Git, GitHub, GitLab, npm, Storybook, Monorepo
-- **Responsive Design & Accessibility:** Ensuring high-quality, accessible, and responsive user interfaces
+- **Core:** JavaScript | TypeScript | React | Next.js | SolidJS
+- **State & Data:** Redux Toolkit | TanStack Query | REST APIs
+- **Styling:** CSS | SCSS | CSS Modules | styled-components
+- **Graphics:** Anime.js | SVG | Canvas 2D | Three.js | React Three Fiber | WebGL | GLSL
+- **Accessibility:** WCAG | ARIA | Screen Reader Support
+- **Tooling:** Vercel | Webpack | Vite | ESLint | Stylelint | Storybook | npm | pnpm | yarn
+- **Version Control & Collaboration:** Git | GitHub | GitLab | Jira | ClickUp
 
 ## 📦 npm Packages
 Here are some of the npm packages I maintain and continuously improve:
 - [vevet](https://www.npmjs.com/package/vevet)
 - [react-components](https://www.npmjs.com/package/@anton.bobrov/react-components)
 - [react-hooks](https://www.npmjs.com/package/@anton.bobrov/react-hooks)
-- [react-vevet-hooks](https://www.npmjs.com/package/@anton.bobrov/react-vevet-hooks)
-- [react-dat-gui](https://www.npmjs.com/package/@anton.bobrov/react-dat-gui)
 
-## 🎨 Latest Experiments
+## 🎨 Creative Experiments
 - [Burning Skull](https://antonbobrov.github.io/threejs-burning-skull/)
 - [Cursor Tiles Distortion](https://antonbobrov.github.io/threejs-cursor-tiles-distortion/)
 - [RGB Fluid](https://antonbobrov.github.io/threejs-rgb-fluid/)
 - [Raycaser Liquid Distortion](https://antonbobrov.github.io/threejs-raycaster-liquid-distortion/)
-- [Lusion Portal](https://r3f-lusion-portal.vercel.app/)
 - [Wormy Particles](https://r3f-tsl-wormy-particles.vercel.app/)
 - [Ball of Glass with Rapier](https://r3f-rapier-ball-of-glass.vercel.app/)
 - [Sphere in Hand](https://github.com/antonbobrov/r3f-sphere-in-hand)
 - [Liquid Points Image](https://github.com/antonbobrov/threejs-liquid-points-image)
-- [Liquid Distortion](https://antonbobrov.github.io/threejs-fluid-distortion-1/)
 - [Summer Rides](https://antonbobrov.github.io/threejs-summer-rides/)
 - [Unreal Flower](https://antonbobrov.github.io/threejs-unreal-flower/)
 - [Depth Map with Points](https://antonbobrov.github.io/threejs-depth-points-image/)
