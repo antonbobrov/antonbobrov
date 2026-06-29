@@ -17,6 +17,10 @@ Here are some of the npm packages I maintain and continuously improve:
 - [react-components](https://www.npmjs.com/package/@anton.bobrov/react-components)
 - [react-hooks](https://www.npmjs.com/package/@anton.bobrov/react-hooks)
 
+- ## Pets
+- [React Yandex Maps Points](https://github.com/antonbobrov/yandex-maps-points)
+- [Angular ToDo DummyJSON](https://github.com/antonbobrov/angular-dummyjson)
+
 ## 🎨 Creative Experiments
 - [Burning Skull](https://antonbobrov.github.io/threejs-burning-skull/)
 - [Cursor Tiles Distortion](https://antonbobrov.github.io/threejs-cursor-tiles-distortion/)
