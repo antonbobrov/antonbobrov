@@ -18,6 +18,7 @@ Here are some of the npm packages I maintain and continuously improve:
 - [react-hooks](https://www.npmjs.com/package/@anton.bobrov/react-hooks)
 
 ## 🛠️ Pets
+- [Next.js Better-Auth + Admin](https://github.com/antonbobrov/nextjs-better-auth)
 - [React Yandex Maps Points](https://github.com/antonbobrov/yandex-maps-points)
 - [Angular ToDo DummyJSON](https://github.com/antonbobrov/angular-dummyjson)
 
